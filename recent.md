@@ -17,7 +17,7 @@
 | Average | 4,181   | 4,730   | 13.13%      |
 | Median  | 1,500   | 2,000   | 33.33%      |
 ## 2024 People Delta 
-|   New Givers |   Lost Givers |   Steady Givers | $Pledged New Givers   | $Missing From Givers   | $Pledged Steady Givers   |
+|   New Givers |   Lost Givers |   Steady Givers | $Pledged New Givers   | $Missing Lost Givers   | $Pledged Steady Givers   |
 |-------------:|--------------:|----------------:|:----------------------|:-----------------------|:-------------------------|
 |           15 |            55 |             122 | $21,510               | $83,465                | $656,624                 |
 
