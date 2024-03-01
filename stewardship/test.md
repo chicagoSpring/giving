@@ -1,14 +1,14 @@
-# Pledging Report 2024
-# Summary
+# 2024 Pledging Report
+## 2024 Summary
 | Total    |   Number | Average   | Median   |
 |:---------|---------:|:----------|:---------|
 | $648,042 |      137 | $4,730    | $2,000   |
 
-# Giving Distribution
+## 2024 Giving Distribution
 |   NumCopper -   $0k |   NumBronze -   $1k |   NumSilver -   $5k |   NumGold   -   $10k |   NumPlatinum - $20k |
 |--------------------:|--------------------:|--------------------:|---------------------:|---------------------:|
 |                  32 |                  64 |                  20 |                   12 |                    9 |
-# Year Over Year 
+## {yearInt} Year Over Year 
 |         | 2023    | 2024    | pctChange   |
 |:--------|:--------|:--------|:------------|
 | Total   | 740,089 | 648,042 | -12.44%     |
