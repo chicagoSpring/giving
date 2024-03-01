@@ -1,6 +1,6 @@
 # Follow Up Report 2024-03-01
 
- This report covers people who pledged in year 2023 but have not yet made their 2024 pledge.
+ This report covers people who pledged in 2023 but who have not yet made their 2024 pledge.
 
  ## Summary 
 |   Number | Total   |
