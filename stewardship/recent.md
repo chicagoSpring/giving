@@ -19,7 +19,7 @@
 ## 2024 People Delta 
 
 
-## Multi Year Summary 
+# Prior Years 
 
 |   Year | Total    |   Number | Average   | Median   |
 |-------:|:---------|---------:|:----------|:---------|
