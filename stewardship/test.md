@@ -1,7 +1,8 @@
-# Summary Report for 2024
-## Total Pledged: $648042
-## Number of Pledges: 137
-## Average Pledge: $4730.233576642336
-| Total Pledged   |   Number of Pledges | Average Pledge   |
-|:----------------|--------------------:|:-----------------|
-| $648,042.00     |                 137 | $4,730.23        |
+# Pledging Report 2024
+Summary
+| Total    |   Number | Average   | Median   |
+|:---------|---------:|:----------|:---------|
+| $648,042 |      137 | $4,730    | $2,000   |
+Giving Levels
+| NumCopper -   [0 ,  1k)   | NumBronze -   [1k,  5k)   | NumSilver -   [5k,  10k)   | NumGold   -   [10k, 20k)   | NumPlatinum - [20k, inf)   |
+|---------------------------|---------------------------|----------------------------|----------------------------|----------------------------|
