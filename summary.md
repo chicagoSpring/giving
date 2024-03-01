@@ -19,7 +19,7 @@
 ## 2024 People Delta 
 |   New Givers |   Lost Givers |   Steady Givers | $Pledged New Givers   | $Missing Lost Givers   | $Pledged Steady Givers   |
 |-------------:|--------------:|----------------:|:----------------------|:-----------------------|:-------------------------|
-|           15 |            55 |             122 | $21,510               | $83,465                | $656,624                 |
+|           15 |            55 |             122 | $21,510               | $83,465                | $648,042                 |
 
 # Prior Years 
 
