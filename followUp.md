@@ -5,7 +5,7 @@
  ## Summary 
 |   Number | Total   |
 |---------:|:--------|
-|       55 | $83,465 |
+|       54 | $83,465 |
 
  ## Names
 | Name                               |   lastPledgeYear | lastPledgeLevel   | Notes                 |
@@ -47,7 +47,6 @@
 | Kyle & Anne Rockey                 |             2023 | Copper            |                       |
 | Larry R. Benfield                  |             2023 | Copper            |                       |
 | Lisa & Rt. Reverend Jeffrey Lee    |             2023 | Copper            |                       |
-| Mark Wuchte                        |             2023 | Copper            |                       |
 | Megan Yorath & Michael Gagliardo   |             2023 | Copper            |                       |
 | Michael Flockhart                  |             2023 | Copper            |                       |
 | Read & Peter Lanctot               |             2023 | Copper            |                       |
