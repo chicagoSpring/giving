@@ -38,7 +38,7 @@
 |   2022 |               43 |               85 |               26 |                17 |                 8 |
 |   2021 |               44 |               78 |               27 |                17 |                 9 |
 
- ## Honor Roll {mainYearInt}
+ ## Honor Roll 2024
 | Name                                                  | level    |
 |:------------------------------------------------------|:---------|
 | Bob & Patricia Lane                                   | Platinum |
