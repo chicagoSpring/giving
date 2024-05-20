@@ -3,14 +3,14 @@
  ## Names
 | Name                                                  | Level           |   Rank |
 |:------------------------------------------------------|:----------------|-------:|
-| Bob & Patricia Lane                                   | Platinum - $10k |      1 |
-| John & Weezie Gates                                   | Platinum - $10k |      2 |
-| Jack Butler & John VanderLinden                       | Platinum - $10k |      3 |
-| Jonathan Boyer & Judith Stockdale                     | Platinum - $10k |      4 |
-| Austin & Isabel Carpenter                             | Platinum - $10k |      5 |
-| Michelle Harrington & Jeffrey Dykstra                 | Platinum - $10k |      6 |
-| Jim & Wende Lawson                                    | Platinum - $10k |      7 |
-| Thomas & Pam Sheffield                                | Platinum - $10k |      8 |
+| Bob & Patricia Lane                                   | Platinum - $20k |      1 |
+| John & Weezie Gates                                   | Platinum - $20k |      2 |
+| Jack Butler & John VanderLinden                       | Platinum - $20k |      3 |
+| Jonathan Boyer & Judith Stockdale                     | Platinum - $20k |      4 |
+| Austin & Isabel Carpenter                             | Platinum - $20k |      5 |
+| Michelle Harrington & Jeffrey Dykstra                 | Platinum - $20k |      6 |
+| Jim & Wende Lawson                                    | Platinum - $20k |      7 |
+| Thomas & Pam Sheffield                                | Platinum - $20k |      8 |
 | Mark & Laura Fisher                                   | Gold - $10k     |      9 |
 | Dorothy Ramm                                          | Gold - $10k     |     10 |
 | Noelle Brock                                          | Gold - $10k     |     11 |
