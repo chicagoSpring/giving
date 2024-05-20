@@ -44,73 +44,73 @@
 | Kathleen Ross & George Ferguson                       | Silver - $5k    |     39 |
 | Anne Van Amerongen                                    | Silver - $5k    |     40 |
 | Patricia White                                        | Silver - $5k    |     41 |
-| Lindsay & Carter Hawkins                              | Bronze - $5k    |     42 |
-| Paul Cavalli & Jack McKenney                          | Bronze - $5k    |     43 |
-| Jean Leavengood                                       | Bronze - $5k    |     44 |
-| Martin & Angie Yorath                                 | Bronze - $5k    |     45 |
-| Ross & Katie Baker                                    | Bronze - $5k    |     46 |
-| Lisa & Ken Bommer                                     | Bronze - $5k    |     47 |
-| Ben George                                            | Bronze - $5k    |     48 |
-| Alex & Sarah Helfers                                  | Bronze - $5k    |     49 |
-| William & Barbara Herzog                              | Bronze - $5k    |     50 |
-| Sheryl Scott                                          | Bronze - $5k    |     51 |
-| Robert Valente                                        | Bronze - $5k    |     52 |
-| Michael & Gretchen Zook                               | Bronze - $5k    |     53 |
-| Karen Meader                                          | Bronze - $5k    |     54 |
-| John McLees & Bozena Nowicka McLees                   | Bronze - $5k    |     55 |
-| Scott Hill & Terri Cenar                              | Bronze - $5k    |     56 |
-| Jane Nicholl Sahlins                                  | Bronze - $5k    |     57 |
-| Pamela Bardo                                          | Bronze - $5k    |     58 |
-| Judy Bross                                            | Bronze - $5k    |     59 |
-| C. Gary & Virginia Gerst                              | Bronze - $5k    |     60 |
-| Cynthia R. & David Polayes                            | Bronze - $5k    |     61 |
-| Tobin & Libbet Richter                                | Bronze - $5k    |     62 |
-| Larry & Sherri Wick                                   | Bronze - $5k    |     63 |
-| Sarah & Ryan Jacox                                    | Bronze - $5k    |     64 |
-| Brian & Alyssa Quinlan                                | Bronze - $5k    |     65 |
-| John & Amanda Rutledge                                | Bronze - $5k    |     66 |
-| Linda Larsen                                          | Bronze - $5k    |     67 |
-| Jonathon & Katherine & Jon Keuler                     | Bronze - $5k    |     68 |
-| Lynn Belding                                          | Bronze - $5k    |     69 |
-| Sarah Berghorst & John Geis                           | Bronze - $5k    |     70 |
-| Walter & Mary Carr                                    | Bronze - $5k    |     71 |
-| Stuart & Cindy Garbutt                                | Bronze - $5k    |     72 |
-| William Harnett & Patty Grauf                         | Bronze - $5k    |     73 |
-| Evan & Julie Jahn                                     | Bronze - $5k    |     74 |
-| John & Karen Pickford                                 | Bronze - $5k    |     75 |
-| Leontine Radler                                       | Bronze - $5k    |     76 |
-| Michael Sammon                                        | Bronze - $5k    |     77 |
-| Frank & Joanne Schell                                 | Bronze - $5k    |     78 |
-| Conrad Selnick & Liz Eaton                            | Bronze - $5k    |     79 |
-| Michael & Taylor Sevier                               | Bronze - $5k    |     80 |
-| Eleanor W. Tippens                                    | Bronze - $5k    |     81 |
-| Jose & Macol Stewart Cerda                            | Bronze - $5k    |     82 |
-| Bob & Betsy Popovich                                  | Bronze - $5k    |     83 |
-| Jeff Ammons                                           | Bronze - $5k    |     84 |
-| TJ & Karen Ferrantella                                | Bronze - $5k    |     85 |
-| Abigail Hymen & Matthew Griffin                       | Bronze - $5k    |     86 |
-| Luke Matthews                                         | Bronze - $5k    |     87 |
-| Lauren Rector                                         | Bronze - $5k    |     88 |
-| James & Kim Elbaor                                    | Bronze - $5k    |     89 |
-| Judith Caraher                                        | Bronze - $5k    |     90 |
-| Dee Jarrett Dow                                       | Bronze - $5k    |     91 |
-| Kate Bensen                                           | Bronze - $5k    |     92 |
-| Gilbert & Jill Valentine                              | Bronze - $5k    |     93 |
-| Priscilla Whittier                                    | Bronze - $5k    |     94 |
-| Judith Langendorff                                    | Bronze - $5k    |     95 |
-| Mike & Meredith Pruyn                                 | Bronze - $5k    |     96 |
-| Deborah Alexander                                     | Bronze - $5k    |     97 |
-| Elizabeth Ellsworth                                   | Bronze - $5k    |     98 |
-| John & Sally Gardner                                  | Bronze - $5k    |     99 |
-| Ainsley Harris                                        | Bronze - $5k    |    100 |
-| Anne Hokin                                            | Bronze - $5k    |    101 |
-| Brad & Jody Kapnick                                   | Bronze - $5k    |    102 |
-| Thomas Opferman                                       | Bronze - $5k    |    103 |
-| Priscilla Read & Tom Weiss                            | Bronze - $5k    |    104 |
-| Kathleen Rice                                         | Bronze - $5k    |    105 |
-| Donna Robertson & Robert McAnulty                     | Bronze - $5k    |    106 |
-| Richard & Diana Senior                                | Bronze - $5k    |    107 |
-| Albert & VIrginia ("Ginny") Van Alyea                 | Bronze - $5k    |    108 |
+| Lindsay & Carter Hawkins                              | Bronze - $1k    |     42 |
+| Paul Cavalli & Jack McKenney                          | Bronze - $1k    |     43 |
+| Jean Leavengood                                       | Bronze - $1k    |     44 |
+| Martin & Angie Yorath                                 | Bronze - $1k    |     45 |
+| Ross & Katie Baker                                    | Bronze - $1k    |     46 |
+| Lisa & Ken Bommer                                     | Bronze - $1k    |     47 |
+| Ben George                                            | Bronze - $1k    |     48 |
+| Alex & Sarah Helfers                                  | Bronze - $1k    |     49 |
+| William & Barbara Herzog                              | Bronze - $1k    |     50 |
+| Sheryl Scott                                          | Bronze - $1k    |     51 |
+| Robert Valente                                        | Bronze - $1k    |     52 |
+| Michael & Gretchen Zook                               | Bronze - $1k    |     53 |
+| Karen Meader                                          | Bronze - $1k    |     54 |
+| John McLees & Bozena Nowicka McLees                   | Bronze - $1k    |     55 |
+| Scott Hill & Terri Cenar                              | Bronze - $1k    |     56 |
+| Jane Nicholl Sahlins                                  | Bronze - $1k    |     57 |
+| Pamela Bardo                                          | Bronze - $1k    |     58 |
+| Judy Bross                                            | Bronze - $1k    |     59 |
+| C. Gary & Virginia Gerst                              | Bronze - $1k    |     60 |
+| Cynthia R. & David Polayes                            | Bronze - $1k    |     61 |
+| Tobin & Libbet Richter                                | Bronze - $1k    |     62 |
+| Larry & Sherri Wick                                   | Bronze - $1k    |     63 |
+| Sarah & Ryan Jacox                                    | Bronze - $1k    |     64 |
+| Brian & Alyssa Quinlan                                | Bronze - $1k    |     65 |
+| John & Amanda Rutledge                                | Bronze - $1k    |     66 |
+| Linda Larsen                                          | Bronze - $1k    |     67 |
+| Jonathon & Katherine & Jon Keuler                     | Bronze - $1k    |     68 |
+| Lynn Belding                                          | Bronze - $1k    |     69 |
+| Sarah Berghorst & John Geis                           | Bronze - $1k    |     70 |
+| Walter & Mary Carr                                    | Bronze - $1k    |     71 |
+| Stuart & Cindy Garbutt                                | Bronze - $1k    |     72 |
+| William Harnett & Patty Grauf                         | Bronze - $1k    |     73 |
+| Evan & Julie Jahn                                     | Bronze - $1k    |     74 |
+| John & Karen Pickford                                 | Bronze - $1k    |     75 |
+| Leontine Radler                                       | Bronze - $1k    |     76 |
+| Michael Sammon                                        | Bronze - $1k    |     77 |
+| Frank & Joanne Schell                                 | Bronze - $1k    |     78 |
+| Conrad Selnick & Liz Eaton                            | Bronze - $1k    |     79 |
+| Michael & Taylor Sevier                               | Bronze - $1k    |     80 |
+| Eleanor W. Tippens                                    | Bronze - $1k    |     81 |
+| Jose & Macol Stewart Cerda                            | Bronze - $1k    |     82 |
+| Bob & Betsy Popovich                                  | Bronze - $1k    |     83 |
+| Jeff Ammons                                           | Bronze - $1k    |     84 |
+| TJ & Karen Ferrantella                                | Bronze - $1k    |     85 |
+| Abigail Hymen & Matthew Griffin                       | Bronze - $1k    |     86 |
+| Luke Matthews                                         | Bronze - $1k    |     87 |
+| Lauren Rector                                         | Bronze - $1k    |     88 |
+| James & Kim Elbaor                                    | Bronze - $1k    |     89 |
+| Judith Caraher                                        | Bronze - $1k    |     90 |
+| Dee Jarrett Dow                                       | Bronze - $1k    |     91 |
+| Kate Bensen                                           | Bronze - $1k    |     92 |
+| Gilbert & Jill Valentine                              | Bronze - $1k    |     93 |
+| Priscilla Whittier                                    | Bronze - $1k    |     94 |
+| Judith Langendorff                                    | Bronze - $1k    |     95 |
+| Mike & Meredith Pruyn                                 | Bronze - $1k    |     96 |
+| Deborah Alexander                                     | Bronze - $1k    |     97 |
+| Elizabeth Ellsworth                                   | Bronze - $1k    |     98 |
+| John & Sally Gardner                                  | Bronze - $1k    |     99 |
+| Ainsley Harris                                        | Bronze - $1k    |    100 |
+| Anne Hokin                                            | Bronze - $1k    |    101 |
+| Brad & Jody Kapnick                                   | Bronze - $1k    |    102 |
+| Thomas Opferman                                       | Bronze - $1k    |    103 |
+| Priscilla Read & Tom Weiss                            | Bronze - $1k    |    104 |
+| Kathleen Rice                                         | Bronze - $1k    |    105 |
+| Donna Robertson & Robert McAnulty                     | Bronze - $1k    |    106 |
+| Richard & Diana Senior                                | Bronze - $1k    |    107 |
+| Albert & VIrginia ("Ginny") Van Alyea                 | Bronze - $1k    |    108 |
 | Meredith Carstens Menache & Julian Rosenthal Erickson | Copper - $0k    |    109 |
 | Charles & Nancy Berg                                  | Copper - $0k    |    110 |
 | Ashley Fischer                                        | Copper - $0k    |    111 |
